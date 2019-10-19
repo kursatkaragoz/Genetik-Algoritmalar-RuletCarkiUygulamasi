@@ -13,5 +13,8 @@
 	Bu iki yöntemde de ortak olan bir amaç şudur ki: Verilen aralıklar doğrultusunda maksimum çözümü bulmak.
 	
 	
+	.exe nin çalışması için "arkaplan2.png" ve exe aynı yolda bulunmalıdır.
+	
+	
 	
 	
