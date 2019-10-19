@@ -6,7 +6,8 @@
 	Geliştirilen bu uygulamada iki farklı genetik aile fonksiyonu kullanılmıştır.Bu iki farklı genetik aile fonksiyonu 
 	iki farklı yönteme uyarlanmıştır:
 	
-	Birincisi; basamak hassasiyeti olmadan ya da basamak hassasiyeti “0” alınarak “0” ila “maksimum” decimal sayı aralığı 		üzerinde uyarlanmıştır.
+	Birincisi; basamak hassasiyeti olmadan ya da basamak hassasiyeti “0” alınarak “0” ila “maksimum” 
+	decimal sayı aralığı üzerinde uyarlanmıştır.
 	Örneğin; [0-31] İkincisi ise iki farklı aralık alınarak örneğin; [0-10] ve [0-5] aralıkları alınarak basamak 
 	hassasiyeti yani virgülden sonra önemsenmesi gereken basamak göz önünde bulundurularak değerler hesaplanmıştır.
 
